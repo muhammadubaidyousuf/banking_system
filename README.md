@@ -1,4 +1,3 @@
-#Banking System School project
-banking system 
-1) Download main.py
-run python main.py
+# Banking System A School Project
+This is basic banking system project idea, how to work a banking system \
+just clone the repo and run main.py
